@@ -1,0 +1,19 @@
+---
+title: "Tag 4: Gastreferat zu Alma & Funktion und Aufbau von Archivsystemen"
+date: 2021-11-04
+---
+
+*Entwurf:*
+
+Dear diary,
+
+bei der letzten Vorlesung hatten wir zwei besondere Gäste: Charlotte Frauchiger und Selina Hodel von der [Bibliothek der Fachhochschule Nordwestschweiz](https://www.fhnw.ch/de/die-fhnw/bibliotheken), die uns in einem Gastreferat Alma vorgestellt haben. Du erinnerst dich an Alma? Das ist eine Bibliothekssoftware wie Koha, nur das sie nicht Open Source ist, sondern zu Ex Libris gehört. Ich habe dir ja in meinem letzten Beitrag davon berichtet, dass durch SLSP sehr viele Bibliotheken in der Schweiz auf dieses System umgeschaltet haben, darunter auch die Bibliothek der FHNW.
+Frauchiger und Hodel haben uns eine Einführung in Alma gegeben, sowie auch eine Demonstration wie das System benutzt wird. Wie du vielleicht noch weisst von meinem ersten Eintrag, habe ich persönlich bisher keine praktische Erfahrung mit Alma, sondern nur theoretische. Speziell aufgefallen ist mir bei der Vorführung wieder die Tatsache, dass sich Bibliothekar*innen aufgrund ihrer Anwenderrolle in einer bestimmten Umgebung befinden, z.B. 
+Von einigen Kolleg*innen aus kleineren Bibliotheken habe ich gehört, dass das für sie eher mühsam ist, weil sie für verschiedene Rollen gleichzeitig zuständig sind, also sowohl katalogisieren wie auch ausleihen oder erwerben und so immer, wenn sie die Tätigkeit wechseln
+Aber ich kann mir vorstellen, dass das in grösseren Bibliotheken weniger ein Problem ist, weil da die Aufgaben häufig strikter verteilt sind und eine Person so wahrscheinlich nur für einen Bereich zuständig ist.
+
+Im zweiten Teil der Vorlesung sind wir weg von den Bibliothekssystemen zu den Archivsystemen gegangen. Ein Satz, der mir speziell geblieben ist, der mir aus dieser Einheit speziell geblieben ist, ist folgender: «Archive sind primär auf Bewahrung ausgerichtet, nicht auf Benutzung.» Meiner Meinung nach fasst dieser Satz ziemlich gut, den Hauptunterschied zwischen Bibliotheken und Archiven zusammen, da erstere sich primär auf die Benutzung fokussieren. Zum Beispiel geht es bei der Katalogisierung in Bibliotheken stark um Schlagworte, es wird viel Wert darauf gelegt, dass User die Medien finden können, während in der Archivierung der Fokus stärker auf der Ressource selbst liegt und deren langfristige Erhaltung beziehungsweise auch die Dokumentation des Entstehungskontextes. Diesen Unterschied wird auch deutlich bei der Benutzung von Archivsystemen, so ist in Bibliotheken selbstverständlich, dass alle erfassten Ressourcen auch veröffentlicht werden, während in Archivsystemen die Publikation jedes Mal einzeln bestätigt werden muss. Das hängt natürlich auch mit rechtlichen Gründen zusammen, da Archive zum Teil Unterlagen mit schützenswerten Daten von Personen erhalten, die (noch) nicht publiziert werden dürfen.
+
+Im Unterricht haben wir als Beispiel ein Archivsystem praktisch ausprobiert: Archives Space, welches Open Source ist. Wir hatten die Aufgabe in Gruppen eigene Datensätze anzulegen, dabei mussten wir uns darauf achten, dass wir für jede Ressource zuerst eine Erwerbs-Aufnahme bzw. eine Akzession anlegten, da in Archiven heutzutage das Provenienzprinzip gilt, bei dem Unterlagen nach ihrer Herkunft geordnet werden. Auch das ist ein Unterschied zu Bibliotheken, in denen normalerweise das Pertinenzprinzip gilt, bei dem Ressourcen nach Themen sortiert werden.
+
+Best wishes!
