@@ -4,7 +4,7 @@ date: 2021-09-15
 ---
 *Entwurf:*
 
-Liebes Tagebuch
+Liebs Tagebuech
 
 Für die nächsten paar Monate werde ich dir regelmässig schreiben und dich auf dem Laufenden halten über das, was ich im Modul **Bibliotheks- und Archivinformatik** lernen werde. Warum ich das tue? Und wer ich überhaupt bin? Lass mich mit einer Vorstellung beginnen, so dass du weisst, auf welches Niveau von Fach(in)kompetenz, du dich einlassen musst.
 
@@ -23,5 +23,5 @@ Wegen meiner Vertiefungsrichtung Web- and Usability Engineering besuche ich eini
 
 Nach dem Studium würde ich gerne in einer Bibliothek oder eventuell auch in einem Archiv arbeiten. Ich hoffe, dass das vermittelte Fachwissen aus diesem Modul, mir bei meinem Berufsleben weiterhelfen wird und dass ich danach besser in der Lage sein werde, den Aufbau und die Funktionen der eingesetzten Softwares zu verstehen.
 
-Liebe Grüsse und bis zum nächsten Mal!
+Liebi Grüess ond bes gli!
 
