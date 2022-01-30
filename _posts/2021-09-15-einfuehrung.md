@@ -2,7 +2,6 @@
 title: "Einführungsartikel"
 date: 2021-09-15
 ---
-*Entwurf:*
 
 Liebs Tagebuech
 
