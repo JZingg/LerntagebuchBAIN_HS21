@@ -1,5 +1,5 @@
 ---
-title: "Einführungsartikel"
+title: "Abschlussartikel"
 date: 2022-01-30
 ---
 *Entwurf:*
