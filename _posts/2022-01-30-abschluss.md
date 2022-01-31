@@ -17,6 +17,6 @@ Geschafft! Mindestens eines habe ich in dieser Lehrveranstaltung gelernt: Diese 
 
 Während des Kurses hatte ich zwischendurch etwas Mühe den Überblick zu behalten über die vielen verschiedenen Tools, die wir kennengelernt haben. Es ist mir manchmal einfach etwas schnell gegangen, weil wir für verschiedene Softwares oft nur kurz Zeit hatten. Jedoch denke ich, dass es auch nicht unbedingt das Ziel der Veranstaltung war, die Tools bedienen zu lernen, sondern dass es mehr darum ging ein generelles Verständnis zu entwickeln, was meiner Meinung nach gelungen ist. Auch meine Erwartungen bezüglich dem Kennenlernen von Differenzen zwischen den verschiedenen Softwares wurden erfüllt. Insgesamt bin ich also sehr zufrieden mit dem, was ich von diesem Kurs mitnehmen kann.
 
-Das heisst, dies ist nun mein letzter Tagebucheintrag. Kannst du es fassen? Irgendwie ist der Kurs plötzlich viel schneller zu Ende gegangen, als am Anfang gedacht.
+Nun sind wir wirklich am Ende unserer gemeinsamen Reise. Kannst du es fassen? Irgendwie ist der Kurs plötzlich viel schneller zu Ende gegangen, als am Anfang gedacht.
 
 Liebi Grüess ond alles Gueti!
